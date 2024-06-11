@@ -1,0 +1,6 @@
+{
+    "workbench.settings.useSplitJSON": true,
+    "json.schemas": []
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true
+}
